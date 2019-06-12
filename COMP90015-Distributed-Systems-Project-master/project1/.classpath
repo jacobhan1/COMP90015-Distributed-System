@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BitBoxSkeleton/src/main/java"/>
+	<classpathentry kind="lib" path="Peer1/bitbox.jar"/>
+	<classpathentry kind="lib" path="Peer2/bitbox.jar"/>
+	<classpathentry kind="lib" path="Peer3/bitbox.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
